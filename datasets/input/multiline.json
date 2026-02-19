@@ -1,0 +1,10 @@
+[
+	{"name":"Alice","age":30,"salary":70000},
+	{"name":"Bob","age":25,"salary":50000},
+	{"name":"Charlie","age":35,"salary":60000},
+	{"name":"David","age":40,"salary":80000},
+	{"name":"Eva","age":28,"salary":55000},
+	{"name":null,"age":22,"salary":45000,"gender":"Female"},
+	{"name":"Frank","salary":75000,"gender":"Male"},
+	{"name":"Grace","age":29,"salary":65000,"gender":"Female"}
+]

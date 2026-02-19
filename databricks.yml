@@ -1,0 +1,24 @@
+bundle:
+  name: default
+
+targets:
+  dev:
+    mode: development
+    default: true
+    workspace:
+      host: https://dbc-3f748aef-a872.cloud.databricks.com
+
+sync:
+  include:
+    - scripts
+    - "./datasets/**/*"
+
+resources:
+  jobs:
+    pyspark_job:
+      name: pyspark-job
+      tasks:
+        - task_key: run_pyspark
+          notebook_task:
+            notebook_path: ./scripts/pyspark.ipynb
+            source: WORKSPACE
