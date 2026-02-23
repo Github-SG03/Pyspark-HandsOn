@@ -36,4 +36,8 @@
         "editor.defaultFormatter": "charliermarsh.ruff",
         "editor.formatOnSave": true,
     },
+    "sonarlint.connectedMode.project": {
+        "connectionId": "github-sg03",
+        "projectKey": "Github-SG03_Pyspark-HandsOn"
+    },
 }
