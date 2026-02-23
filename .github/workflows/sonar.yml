@@ -25,3 +25,8 @@ jobs:
         uses: SonarSource/sonarcloud-github-action@v2
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+        with:
+          args: >
+           -Dsonar.projectKey=github-SG03_Pyspark-HandsOn
+           -Dsonar.organization=github-sg03
+           -Dsonar.sources=.
