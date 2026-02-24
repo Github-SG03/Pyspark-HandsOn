@@ -34,7 +34,7 @@ If you're developing with an IDE, dependencies for this project should be instal
 *  Run `uv sync --dev` to install the project's dependencies.
 
 
-# Using this project using the CLI
+## Running this project using the CLI
 
 The Databricks workspace and IDE extensions provide a graphical interface for working
 with this project. It's also possible to interact with it directly using the CLI:
