@@ -1,7 +1,10 @@
 ## 📊 Project Status
 
-![Quality Gate]([![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Github-SG03_Pyspark-HandsOn&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Github-SG03_Pyspark-HandsOn))
-![Coverage]([![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Github-SG03_Pyspark-HandsOn&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Github-SG03_Pyspark-HandsOn))
+## 📊 Project Status
+
+[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=Github-SG03_Pyspark-HandsOn&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Github-SG03_Pyspark-HandsOn)
+
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Github-SG03_Pyspark-HandsOn&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Github-SG03_Pyspark-HandsOn)
 
 # pyspark_handson
 
