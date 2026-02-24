@@ -1,4 +1,6 @@
+pyspark
+pandas
 pytest
 pytest-cov
-pandas
-great-expectations
+python-dotenv
+boto3
