@@ -59,6 +59,6 @@ resources:
       tasks:
         - task_key: run_pyspark
           notebook_task:
-            notebook_path: ./src/pyspark.py
+            notebook_path: ./src/pyspark.ipynb
             
             source: WORKSPACE
