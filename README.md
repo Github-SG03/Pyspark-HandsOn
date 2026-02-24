@@ -4,6 +4,8 @@
 
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Github-SG03_Pyspark-HandsOn&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Github-SG03_Pyspark-HandsOn)
 
+
+
 # Pyspark-Handson
 
 
